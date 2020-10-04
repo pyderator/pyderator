@@ -37,9 +37,8 @@ const networking = () => {
 
 ```
 
-```
 ## Get in touch
 
 - Twitter: https://twitter.com/pyderator
 - Personal Site: https://pyderator.me
-```
+
